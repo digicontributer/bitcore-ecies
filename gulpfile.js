@@ -1,6 +1,6 @@
 'use strict';
 
-var gulp_bitcore = require('bitcore-build');
+var gulp_digibyte = require('digibyte-build');
 
-gulp_bitcore('ecies');
+gulp_digibyte('ecies');
 

@@ -1,18 +1,20 @@
 {
-  "name": "bitcore-ecies",
-  "main": "./bitcore-ecies.min.js",
+  "name": "digibytejs-ecies",
+  "main": "./digibytejs-ecies.min.js",
   "version": "1.0.3",
-  "homepage": "https://github.com/bitpay/bitcore-ecies",
+  "homepage": "https://github.com/bitpay/digibytejs-ecies",
   "authors": [
-    "BitPay"
+    "BitPay",
+    "Esotericizm"
   ],
-  "description": "ECIES implemented for Bitcore.",
+  "description": "ECIES implemented for DigiByte.js.",
   "moduleType": [
     "globals"
   ],
   "keywords": [
     "bitcoin",
-    "bitcore",
+    "digibyte",
+    "digibytejs",
     "btc",
     "satoshi",
     "ecies"
