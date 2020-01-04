@@ -44,6 +44,6 @@
   },
   "dependencies": {
     "aes": "^0.1.0",
-    "digibyte": "^0.14.0"
+    "digibyte": "^0.15.2"
   }
 }
