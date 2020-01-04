@@ -1,6 +1,6 @@
 {
   "name": "digibytejs-ecies",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "ECIES implemented for DigiByte-js.",
   "main": "index.js",
   "directories": {
